@@ -1,0 +1,2 @@
+# Trips
+Webpage about trips
